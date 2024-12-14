@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PandianStoreService.PandianStoreService" CodeBehind="PandianStoreService.svc.cs" %>
